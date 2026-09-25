@@ -11,6 +11,7 @@ Keep rows alphabetical by preferred public name.
 
 | Preferred public name | GitHub |
 | --- | --- |
+| Bill Qiu | [@zq2082](https://github.com/zq2082) |
 | Yusuke Katsuki | [@katsukii](https://github.com/katsukii) |
 | Ziqian Zhu | [@ziqianz360](https://github.com/ziqianz360) |
 
